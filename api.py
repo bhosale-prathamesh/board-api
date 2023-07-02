@@ -5,7 +5,8 @@ app = Flask(__name__)
 
 @app.route("/")
 def serve():
-    jsonStr = "{'Test':1234}"
+    with open('response.json') as user_file:
+        jsonStr = json.load(user_file)
 
     return jsonStr
 

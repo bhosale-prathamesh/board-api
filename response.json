@@ -1,0 +1,46 @@
+{
+    "TotEarning" : "$2,129,430",
+    "TotTransactions" : "1,520",
+    "TotLikes" : "9,712",
+    "TotUsers" : "892",
+  
+    "LineChart" : [
+      {
+        "Users" :
+          {
+            "Week1" : 400,
+            "Week2" : 200,
+            "Week3" : 350,
+            "Week4" : 250
+          }
+      },
+      {
+        "Guests" : 
+          {
+            "Week1" : 300,
+            "Week2" : 250,
+            "Week3" : 150,
+            "Week4" : 400
+          }
+      }
+    ],
+    
+    "PieChart" : {
+        "Basic Trees" : 55,
+        "Custom Short Pants" : 31,
+        "Super Hoodies" : 14
+    },
+  
+    "Schedule" : [
+      {
+        "Title" : "Meeting with suppliers from Kuta Bali",
+        "Time" : "14.00-15.00",
+        "Location" : "at Sunset Road, Kuta, Bali"
+      },
+      {
+        "Title" : "Check operation at Giga Factory 1",
+        "Time" : "18.00-20.00",
+        "Location" : "at Central Jakarta "
+      }
+    ]
+  }
